@@ -7,6 +7,7 @@ const Home = () => {
             <Title />
             <Navbar />
             <h1 className="Title">Home Page</h1>
+            <p className="TextAll">Welcome to the home page!</p>
         </div>
     );
 }
