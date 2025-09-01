@@ -12,7 +12,7 @@ const SignIn = () => {
         <div className="SignIn">
             <h1 className="Title">Sign In</h1>
             <div className="ButtonContainer">
-                <input type="email" placeholder="Email" />
+                <input type="text" placeholder="Username" />
                 <br />
                 <input type="password" placeholder="Password" />
                 <br />
