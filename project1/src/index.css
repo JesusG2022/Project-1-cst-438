@@ -17,6 +17,10 @@ code {
   font-weight: bold;
   text-align: center;
   margin: 1rem 0;
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
 }
 
 .Start {
