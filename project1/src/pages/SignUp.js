@@ -11,6 +11,11 @@ const SignUp = () => {
     <div className="SignUp">
         <h1 className="Title">Sign Up</h1>
         <div className="ButtonContainer">
+            <input type="email" placeholder="Email" />
+            <br />
+            <input type="password" placeholder="Password" />
+            <br />
+            
             <button onClick={handleSignUp}>Sign Up</button> <br />
             <br />
             <button onClick={() => navigate("/")} > back</button>
