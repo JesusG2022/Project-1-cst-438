@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.Start {
+  padding: 2rem;
+  text-align: center;
+}
+
+.Navbar {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+}
+
+.Navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+.Navbar a:hover {
+  text-decoration: underline;
+}
+.ButtonContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
