@@ -1,5 +1,5 @@
-import Navbar from "../componets/NarBar";
-import Title from "../componets/Title";
+import Navbar from "../components/NarBar";
+import Title from "../components/Title";
 
 const Page2 = () => {
     return (

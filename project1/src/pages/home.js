@@ -1,5 +1,5 @@
-import Title from "../componets/Title";
-import Navbar from "../componets/NarBar"
+import Title from "../components/Title";
+import Navbar from "../components/NarBar"
 
 const Home = () => {
     return (

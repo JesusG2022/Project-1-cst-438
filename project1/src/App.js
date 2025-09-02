@@ -6,6 +6,10 @@ import Page2 from "./pages/page2";
 import SignUp from "./pages/SignUp";
 import SignIn from "./pages/SignIn"; 
 
+import * as SQLite from 'expo-sqlite';
+
+// const db = await SQLite.openDatabaseAsync('databaseName');
+
 function App() {
   return (
     <Router>

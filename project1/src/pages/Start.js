@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import Title from "../componets/Title";
+import Title from "../components/Title";
 
 const Start = () => {
   const navigate = useNavigate();
